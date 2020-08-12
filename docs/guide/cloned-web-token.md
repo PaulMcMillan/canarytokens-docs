@@ -10,7 +10,7 @@ Create a token by choosing "Cloned Website" from the drop down list.
 
 Leave a reasonable comment to remind yourself where you will deploy the token. Then, supply the domain that you want to protect (this is the domain where the site is deployed that you will insert you tokenized javascript into).
 
-The file can now be downloaded. Remember, this token is triggered whenever the binary file is executed. For EXEs, this means direct execution and for DLLs, it means they were loaded.
+The file can now be downloaded. Remember, this token is triggered whenever the javascript file is executed.
 
 You'll get javascript similar to:
 
